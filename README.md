@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MERN Blog — Full working starter
 
 This archive contains a full working MERN blog starter scaffold (server + client).
